@@ -7,7 +7,6 @@ APPDATA = os.getenv("APPDATA")
 LOCALAPPDATA = os.getenv("LOCALAPPDATA")
 TEMP = os.getenv("TEMP")
 
-troll = 2;
 guild_id = ""
 token = ""
 
